@@ -1,0 +1,9 @@
+CREATE DATABASE HELLO2;
+USE HELLO2;
+
+
+CREATE DATABASE HELLO1;
+USE HELLO1;
+
+create database hello;
+use hello;
